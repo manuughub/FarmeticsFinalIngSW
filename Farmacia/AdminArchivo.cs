@@ -7,7 +7,7 @@ using BibliotecaFarmacia.Clases;
 using System.IO;
 using System.Windows.Forms;
 
-//Manuela Hernández Ríos- Esteban González Gómez 21/04/20
+
 namespace Farmacia
 {
     class AdminArchivo
